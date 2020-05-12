@@ -1,2 +1,2 @@
-# Trivago-Automation-and-Scrapping
+# Trivago-Automation
 Scrapping hotel details through automation
