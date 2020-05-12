@@ -12,10 +12,8 @@ npm install or npm i puppeteer
 --Email
 --Password
 # run
-command run in bash:
-sh cmd.sh
 command run in cmd:
-cmd.bat
+hotels.bat
 
 ```
 ![Trivago-Automation](https://user-images.githubusercontent.com/46645491/81700969-00045080-9487-11ea-9474-b841f93a4404.gif)
