@@ -1,5 +1,5 @@
 # Trivago-Automation
-## Scrapping hotel details through automation
+## Scrapping hotel details and a screenshot based on location provided through automation.
 
 <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" height="200" align="right">
 
